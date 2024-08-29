@@ -1,0 +1,26 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.highlight {
+  background-color: #f8d7da;
+}
+
+.center {
+  text-align: center;
+}
+
+.lightgray-background {
+  background-color: lightgray;
+}
+
+table {
+  margin-bottom: 10em;
+}
